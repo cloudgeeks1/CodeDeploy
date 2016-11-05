@@ -7,6 +7,6 @@
 <title>Code Deploy</title>
 </head>
 <body>
-		Code Deploy
+		Code Deploy using bean stalk
 </body>
 </html>
